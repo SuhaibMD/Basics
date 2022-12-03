@@ -1,2 +1,2 @@
-# resume
-My resume from my own interest
+# Web-Development-Course
+Public Repository for Web Development Course for Beginners
